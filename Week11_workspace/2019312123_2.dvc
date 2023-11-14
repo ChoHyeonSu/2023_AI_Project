@@ -1,5 +1,6 @@
 outs:
-- md5: 41f7fdd8a6589a66322c70eb7d66f75a
-  size: 15097
+- md5: abec4865a059367d52007e3bad58b49c.dir
+  size: 335356
+  nfiles: 1
   hash: md5
-  path: train.csv
+  path: '2019312123_2'
