@@ -1,0 +1,60 @@
+I'm caught here in this vacuum
+I'm fallen from a sunless sky
+I’ll rid myself of value
+And leave this emptiness behind
+
+So I run, before it's over
+I run but still never leave it seems
+I run, but not getting closer
+I run, to get away from this dream
+
+I've been watching you from a distance
+I've been monitoring you from cloudless skies
+I've been calling your name just to ease your resistance
+But nothing seems to shift your darkened sky
+
+I run, before it's over
+I run but still never leave it seems
+I run, but not getting closer
+I run, to get away from this dream
+
+I'm in orbit, stars exploding
+When I call your name
+Here’s too dark and lonely
+You're my compass
+The only reason to stay.....
+ run, before it's over
+I run but still never leave it seems
+I run, but not getting closer
+And I run, to get away from this dream
+
+I run, but not getting closer
+I run, but still I believe, it seems
+
+"I'm caught 
+
+"I'm caught here in this vacuum" - 4: 외로움
+"I'm fallen from a sunless sky" - 5: 슬픔
+"I’ll rid myself of value And leave this emptiness behind" - 5: 슬픔
+"So I run, before it's over" - 3: 스트레스 짜증
+"I run but still never leave it seems" - 5: 슬픔
+"I run, but not getting closer" - 3: 스트레스 짜증
+"I run, to get away from this dream" - 3: 스트레스 짜증
+"I've been watching you from a distance" - 0: 그리움
+"I've been monitoring you from cloudless skies" - 0: 그리움
+"I've been calling your name just to ease your resistance" - 1: 사랑 기쁨
+"But nothing seems to shift your darkened sky" - 5: 슬픔
+"I'm in orbit, stars exploding" - 2: 설렘 심쿵
+"When I call your name" - 1: 사랑 기쁨
+"Here’s too dark and lonely" - 4: 외로움
+"You're my compass The only reason to stay" - 1: 사랑 기쁨
+"And I run, to get away from this dream" - 3: 스트레스 짜증
+"I run, but not getting closer" - 3: 스트레스 짜증
+"I run, but still I believe, it seems" - 2: 설렘 심쿵
+
+그리움: 11.11%
+사랑 기쁨: 16.67%
+설렘 심쿵: 11.11%
+스트레스 짜증: 27.78%
+외로움: 11.11%
+슬픔: 22.22%
