@@ -1,0 +1,48 @@
+Eu nasci nalgum lugar
+Donde se avista o mar
+Tecendo o horizonte
+E ouvindo o mar gemer
+Nasci como a água a correr
+Da fonte
+
+E eu vivi noutro lugar
+Onde se escuta o mar
+Batendo contra o cais
+Mas vivi, não sei porquê
+Como um barco à mercê
+Dos temporais
+
+Eu sei que o mar mão me escolheu
+Eu sei que o mar fala de ti
+Mas ele sabe que fui eu
+Que te levei ao mar quando te vi
+Eu sei que o mar mão me escolheu
+Eu sei que o mar fala de ti
+Mas ele sabe que fui eu
+Quem dele se perdeu
+Assim que te perdi
+
+Vou morrer nalgum lugar
+De onde possa avistar
+A onda que me tente
+A morrer livre e sem pressa
+Como um rio que regressa
+Á nascente
+
+
+"Eu nasci nalgum lugar Donde se avista o mar" - 0: 그리움 (바다를 바라보며 태어난 곳에 대한 그리움)
+"Tecendo o horizonte E ouvindo o mar gemer" - 0: 그리움 (바다의 소리를 들으며 지평선을 바라보는 정서)
+"Nasci como a água a correr Da fonte" - 2: 설렘 심쿵 (샘물처럼 흐르는 삶에 대한 설렘)
+"E eu vivi noutro lugar Onde se escuta o mar Batendo contra o cais" - 0: 그리움 (바다를 들으며 다른 곳에서 살았던 추억)
+"Mas vivi, não sei porquê Como um barco à mercê Dos temporais" - 5: 슬픔 (폭풍 속에 떠도는 배처럼 살아온 삶에 대한 슬픔)
+"Eu sei que o mar mão me escolheu Eu sei que o mar fala de ti" - 0: 그리움, 1: 사랑 기쁨 (바다가 자신을 선택하지 않았으며, 바다가 그리운 사람에 대해 이야기한다는 느낌)
+"Mas ele sabe que fui eu Quem dele se perdeu Assim que te perdi" - 5: 슬픔 (사랑하는 사람을 잃고 바다에 자신을 잃었다는 감정)
+"Vou morrer nalgum lugar De onde possa avistar A onda que me tente" - 5: 슬픔 (바다를 볼 수 있는 곳에서 죽음을 맞이할 것이라는 감정)
+"A morrer livre e sem pressa Como um rio que regressa Á nascente" - 2: 설렘 심쿵, 5: 슬픔 (자유롭고 서두르지 않는 죽음을 통해 강처럼 원천으로 돌아가는 것에 대한 감정)
+
+그리움: 36.36%
+사랑 기쁨: 9.09%
+설렘 심쿵: 18.18%
+스트레스 짜증: 0.00%
+외로움: 0.00%
+슬픔: 36.36%
