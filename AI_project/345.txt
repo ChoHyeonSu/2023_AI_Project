@@ -81,8 +81,9 @@ Am I crazy for you?
 "I hope you see the way I am by being passionate, yeah" - 사랑 기쁨
 "But the same song keeps playing again and again" - 슬픔
 
-그리움: 10.00%
-사랑 기쁨: 50.00%
-설렘 심쿵: 3.33%
-스트레스 짜증: 13.33%
-외로움: 0.00%
+그리움: 11.43%
+사랑 기쁨: 45.71%
+설렘 심쿵: 5.71%
+스트레스 짜증: 14.29%
+외로움: 2.86%
+슬픔: 20.00%
