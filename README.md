@@ -1,4 +1,3 @@
-# 2023_-
+# 2023 AI Project
 
-박정재의 pull request입니다.
-Pull Request From jaehoon!
+## 가사별 감정분류를 통한 플레이리스트 생성
